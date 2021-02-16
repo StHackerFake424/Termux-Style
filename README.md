@@ -1,7 +1,7 @@
 ## [+] Click & Follow Me :
 <a href="https://www.google.com.bd/maps/place/Bangladesh"><img title="Md.SomRaAtHossain-[BlackHacker]" src="https://img.shields.io/badge/MADE%20IN-BANGLADESH-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge&logo=map"></a>
 [![Github](https://img.shields.io/badge/Github-StHackerFake424-green?style=for-the-badge&logo=github)](https://github.com/StHackerFake424)</a>
-[![Github](https://img.shields.io/badge/Chat-WhatsAppGroup-blue?style=for-the-badge&logo=whatsapp)](https://chat.whatsapp.com/FNzdC5zAZ5g6FWV6JlneLd)</a>
+[![Github](https://img.shields.io/badge/Chat-TelegramGroup-blue?style=for-the-badge&logo=telegram)](https://t.me/HackerFake424)</a>
 </p>
 
 [![Github](https://img.shields.io/badge/Facebook-Md.SomraatHossain-blue?style=flat-square&logo=facebook)](https://fb.com/md.somraat.hossain.2)</a>
